@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FINANCIALTPC-Investment-Records/static/css/main.a6ae39d3.css",
-    "main.js": "/FINANCIALTPC-Investment-Records/static/js/main.ff675f06.js",
+    "main.js": "/FINANCIALTPC-Investment-Records/static/js/main.2bcc668c.js",
     "index.html": "/FINANCIALTPC-Investment-Records/index.html",
     "main.a6ae39d3.css.map": "/FINANCIALTPC-Investment-Records/static/css/main.a6ae39d3.css.map",
-    "main.ff675f06.js.map": "/FINANCIALTPC-Investment-Records/static/js/main.ff675f06.js.map"
+    "main.2bcc668c.js.map": "/FINANCIALTPC-Investment-Records/static/js/main.2bcc668c.js.map"
   },
   "entrypoints": [
     "static/css/main.a6ae39d3.css",
-    "static/js/main.ff675f06.js"
+    "static/js/main.2bcc668c.js"
   ]
 }
